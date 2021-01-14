@@ -1,0 +1,4 @@
+https//:www.simulation.net/action
+https//:www.simulation.net/sport
+https//:www.simulation.net/adventure
+https//:www.simulation.net/simulation

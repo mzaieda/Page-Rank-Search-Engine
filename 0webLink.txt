@@ -1,0 +1,9 @@
+https//:www.words.net/cars
+https//:www.words.net/girls
+https//:www.words.net/boys
+https//:www.words.net/action
+https//:www.words.net/sport
+https//:www.words.net/adventure
+https//:www.words.net/strategy
+https//:www.words.net/cards
+https//:www.words.net/simulation
